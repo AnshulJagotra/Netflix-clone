@@ -22,9 +22,14 @@ This is a basic Netflix clone that I created to practice and enhance my front-en
 - **CSS3**: Styling, layout, and responsive design.
 - **JavaScript**: Interactivity and dynamic content management.
 
+## Live Demo
+
+Check out the live version of my Netflix clone [https://anshuljagotra.github.io/Netflix-clone/](#).
+
 ## How to Run Locally
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/AnshulJagotra/netflix-clone.git
+
 
